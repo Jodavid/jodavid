@@ -33,9 +33,20 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jodavid&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jodavid&theme=github_dark)
 
-### Hi there 👋
+---
+
+### Useful links about me
+
+* Personal Site : https://jodavid.github.io/
+* Curriculum lattes : http://lattes.cnpq.br/4617170601890026
+* CV : https://jodavid.github.io/cv/
+
+---
 
 <!--
+
+### Hi there 👋
+
 **Jodavid/jodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
