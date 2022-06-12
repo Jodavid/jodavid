@@ -39,6 +39,12 @@
 
 ---
 
+### Visitor count
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=Jodavid)
+
+---
+
 ### Useful links about me
 
 * Personal Site : https://jodavid.github.io/
@@ -46,21 +52,3 @@
 * CV : https://jodavid.github.io/cv/
 
 ---
-
-<!--
-
-### Hi there 👋
-
-**Jodavid/jodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
