@@ -31,11 +31,11 @@
 [![](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)](#)
 [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](#)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jodavid&theme=github_dark)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jodavid&theme=github_dark)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jodavid&theme=github_dark)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jodavid&theme=github_dark)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jodavid&theme=github_dark)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jodavid&theme=github)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jodavid&theme=github)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jodavid&theme=github)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jodavid&theme=github)](#)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jodavid&theme=github)](#)
 
 ---
 
